@@ -19,7 +19,7 @@
 
 ## I'm looking to collaborate on web development projects
 
-## Reach me on <a href src="https://www.linkedin.com/in/victor-nwobodo-9838a5194"> LinkedIn </a>
+## Reach me on <a href="https://www.linkedin.com/in/victor-nwobodo-9838a5194"> LinkedIn </a>
 
 ![Victor-investor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Victor-investor&show_icons=true&theme=radical)
 
